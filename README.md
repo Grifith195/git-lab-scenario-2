@@ -1,1 +1,1 @@
-# git-lab-scenario-2
+This change was made locally for Scenario 2.
